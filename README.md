@@ -8,8 +8,8 @@ Cashier takes time for billing, so long queues at the counters in supermarkets. 
 Introducing Smart Shopping Cart with automatic bill generation system.
 
 # Uses :
-Shopping Malls
-Grocery Stores
+Shopping Malls </br>
+Grocery Stores </br>
 
 # Our System :
   -The shopper just have to scan the item before adding it into the cart. </br>
