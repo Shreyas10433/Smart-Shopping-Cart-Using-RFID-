@@ -12,9 +12,9 @@ Shopping Malls
 Grocery Stores
 
 # Our System :
--The shopper just have to scan the item before adding it into the cart.
--This cart carries its own scanning device as a part of the cart.
--Then the billing will be done automatically.
--So that customer can pay the bill at the dedicated exit.
--Shopper can't put an item without scanning ,it will be monitered in our system.
--Shopper can remove any item ,the item will be removed from the bill also in our system
+The shopper just have to scan the item before adding it into the cart. </br>
+This cart carries its own scanning device as a part of the cart.
+Then the billing will be done automatically.
+So that customer can pay the bill at the dedicated exit.
+Shopper can't put an item without scanning ,it will be monitered in our system.
+Shopper can remove any item ,the item will be removed from the bill also in our system
